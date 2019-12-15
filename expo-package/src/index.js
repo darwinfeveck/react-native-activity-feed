@@ -1,7 +1,7 @@
 // @flow
 import { registerNativeHandlers } from 'react-native-activity-feed-core';
 
-import * as Permissions from 'expo-permissions'
+import * as Permissions from 'expo-permissions';
 import * as ImagePicker from 'expo-image-picker';
 
 registerNativeHandlers({
