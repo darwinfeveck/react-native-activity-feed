@@ -44,6 +44,8 @@
     "postpack": "../bin/postpack.sh && rm README.md"
   },
   "dependencies": {
+    "expo-image-picker": "^8.0.1",
+    "expo-permissions": "^8.0.0",
     "react-native-activity-feed-core": "0.8.17"
   },
   "peerDependencies": {
