@@ -27,7 +27,6 @@
     "flow-bin": "^0.78.0",
     "flow-copy-source": "^2.0.2",
     "prettier": "^1.13.7",
-    "react-native": "~0.59.8",
     "react-native-scripts": "1.14.0",
     "react-test-renderer": "16.3.1"
   },
